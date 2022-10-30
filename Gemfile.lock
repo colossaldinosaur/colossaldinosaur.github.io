@@ -1,10 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    academic-jekyll-theme (1.0.0)
-      jekyll (~> 4.2)
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
+    bay_jekyll_theme (1.0.19)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
     em-websocket (0.5.3)
@@ -67,7 +66,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  academic-jekyll-theme
+  bay_jekyll_theme
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.1)
   jekyll-feed (~> 0.12)

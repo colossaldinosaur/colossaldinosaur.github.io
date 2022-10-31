@@ -3,4 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Animation
+classes: wide
 ---
+
+![Alt Text](gifs/f1.gif)
+
+![Alt Text](gifs/house.gif)

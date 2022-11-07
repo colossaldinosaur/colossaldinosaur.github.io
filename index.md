@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Animations"
-feature-img: "img/ai_2.jpg"
+feature-img: "img/nuitdesetoiles.jpg"
 ---
 
 # Animations 

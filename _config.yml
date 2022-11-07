@@ -10,7 +10,7 @@ favicon: ""                                               # Icon displayed in th
 
 # Header and footer text
 header_text: Colossal Dinosaur  # Change Blog header text
-header_feature_image: img/AI.jpg
+header_feature_image: img/ai_2.jpg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

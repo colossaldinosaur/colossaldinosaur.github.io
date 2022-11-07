@@ -5,12 +5,12 @@ url: "https://colossaldinosaur.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Colossal Dinosaur                                  # site's title
 description: "A website to present my PhD results"        # used by search engines
-avatar: assets/img/triangle.png                           # Empty for no avatar in navbar
-favicon: assets/favicon.ico                               # Icon displayed in the tab
+avatar: img/dinosaur.png                                  # Empty for no avatar in navbar
+favicon: ""                                               # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg
+header_text: Colossal Dinosaur  # Change Blog header text
+header_feature_image: img/AI.jpeg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

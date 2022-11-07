@@ -10,4 +10,4 @@ layout: home
 
 ## House with windows
 
-## Pick-uo
+## Pick-up

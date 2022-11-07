@@ -9,8 +9,9 @@ feature-img: "img/nuitdesetoiles.jpg"
 ## Dinosaur 
 
 ## Formula one car
+<div style="text-align:center"><img src="https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/2f1.gif?raw=true" alt="F1" width="800"/></div>
 
-<img src="https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/2f1.gif?raw=true" alt="F1" width="800" align=middle/>
+
 
 ## House with windows
 

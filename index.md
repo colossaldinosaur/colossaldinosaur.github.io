@@ -8,7 +8,11 @@ feature-img: "img/nuitdesetoiles.jpg"
 
 ## Dinosaur 
 
-## Formula one car
+<p align="center">
+  <img width="800" src= https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/dino_2.gif?">
+</p>
+
+ ## Formula one car
 
 <p align="center">
   <img width="800" src= https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/2f1.gif?">

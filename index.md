@@ -16,6 +16,8 @@ feature-img: "img/nuitdesetoiles.jpg"
 
 ## House with windows
 
-<img src="https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/house.gif?raw=true" alt="House" width="800" align=middle/>
+<p align="center">
+  <img width="800" src= "https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/house.gif?">
+</p>
 
 ## Pick-up

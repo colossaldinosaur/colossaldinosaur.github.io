@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Animations"
-feature-img: "img/black.jpeg"
+feature-img: ""
 ---
 
 # Animations 

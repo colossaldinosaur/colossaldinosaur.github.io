@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Animations"
-feature-img: ""
 ---
 
 # Animations 

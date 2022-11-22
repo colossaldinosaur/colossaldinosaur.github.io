@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Animations"
-feature_img: "img/Capture du 2022-11-22 23-19-22.png"
+feature_img: "img/cfdf1.jpg"
 ---
 
 # Animations 

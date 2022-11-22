@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Animations"
-feature_img: "img/cfdf1.jpg"
+feature_img: img/cfdf1.jpg
 ---
 
 # Animations 

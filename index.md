@@ -28,3 +28,9 @@ title: "Animations"
 <p align="center">
   <img src="https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/pickup.gif?raw=true" alt="Pickup" width="1500"/>
 </p>
+
+## Heart with high random initial solution
+
+<p align="center">
+  <img src="https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/heart.gif?raw=true" alt="Heart" width="1500"/>
+</p>

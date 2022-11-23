@@ -24,3 +24,7 @@ title: "Animations"
 </p>
 
 ## Pick-up
+
+<p align="center">
+  <img src="https://github.com/colossaldinosaur/colossaldinosaur.github.io/blob/main/gifs/pickup.gif?raw=true" alt="Pickup" width="1500"/>
+</p>
